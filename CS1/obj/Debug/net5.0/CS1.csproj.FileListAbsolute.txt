@@ -1,0 +1,15 @@
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/CS1.deps.json
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/CS1.runtimeconfig.json
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/CS1.runtimeconfig.dev.json
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/CS1.dll
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/ref/CS1.dll
+/Users/johnchen/RiderProjects/CS1/CS1/bin/Debug/net5.0/CS1.pdb
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.csproj.AssemblyReference.cache
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.AssemblyInfoInputs.cache
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.AssemblyInfo.cs
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.csproj.CoreCompileInputs.cache
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.dll
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/ref/CS1.dll
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.pdb
+/Users/johnchen/RiderProjects/CS1/CS1/obj/Debug/net5.0/CS1.genruntimeconfig.cache
