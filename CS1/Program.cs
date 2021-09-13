@@ -86,9 +86,9 @@ namespace CS1
                 a[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i < a.Length; i++)
             {
-                for (int j = 0; j + 1 < n - i; j++)
+                for (int j = 0; j + 1 < a.Length - i; j++)
                 {
                     if (a[j] < a[j + 1])
                     {
